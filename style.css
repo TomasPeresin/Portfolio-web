@@ -156,7 +156,6 @@ body{
     font-size: 20px;
     color:var(--secondary-color);
     margin: 1em 3em 0 0;
-    text-decoration: none;
 }
 
 .proyects-box a:hover{
@@ -166,6 +165,7 @@ body{
 .not-active { 
     pointer-events: none; 
     cursor: default;
+    text-decoration: none;
 } 
 
 footer{
